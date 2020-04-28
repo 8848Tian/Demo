@@ -4,7 +4,7 @@
  * @Author:
  * @Date: 2020-04-26 14:52:14
  * @LastEditors: 宣某人
- * @LastEditTime: 2020-04-28 03:06:29
+ * @LastEditTime: 2020-04-28 14:13:53
  */
 
 #include "stm32f4xx.h"
@@ -14,7 +14,7 @@
 #include "bsp_timer.h"
 #include "modbus_slave.h"
 /**
- * @name: 
+ * @name: main
  * @test: test font
  * @msg: 
  * @param {type} 
