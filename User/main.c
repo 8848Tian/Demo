@@ -4,7 +4,7 @@
  * @Author:
  * @Date: 2020-04-26 14:52:14
  * @LastEditors: 宣某人
- * @LastEditTime: 2020-04-28 14:13:53
+ * @LastEditTime: 2020-04-28 15:16:14
  */
 
 #include "stm32f4xx.h"
@@ -16,7 +16,7 @@
 /**
  * @name: main
  * @test: test font
- * @msg: 
+ * @msg: 主程序
  * @param {type} 
  * @return: 
  */
